@@ -18,7 +18,7 @@ Soy estudiante de 3er año de la Licenciatura en Ciencias de la Computación en 
 * **[Rubber Rumble](https://codo-a-codo.itch.io/rubber-rumble)**: Videojuego desarrollado en Unity, quedó como trabajo final destacado del curso de especializacion en Unity de Codo a Codo 4.0 (Las particulas se caen a pedazos pero no llegamos a arreglarlo antes de que lo suban :p).
 
 ## Si querés contactarme:
-* **LinkedIn:** [Augusto Mardones](https://www.linkedin.com/in/augusto-mardones-51aaa7368/)
+* **LinkedIn:** [Augusto Mardones](https://www.linkedin.com/in/augustomardones/)
 * **Email:** [augusmardo@gmail.com](mailto:augusmardo@gmail.com)
 
 
