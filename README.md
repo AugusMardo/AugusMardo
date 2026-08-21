@@ -1,24 +1,35 @@
-# Hola, soy Augusto!
+# Hola, soy Augusto
 
-Soy estudiante de 3er año de la Licenciatura en Ciencias de la Computación en la UBA (FCEyN). La idea de este espacio es ir subiendo las cosas que me vayan copando para que me queden guardadas y si a alguien le interesa pueden chusmearlas.
+Estudiante de 3er año de la Licenciatura en Ciencias de la Computación en la UBA (FCEyN). Me interesa la programación de bajo nivel: arquitectura de computadoras, sistemas operativos y todo lo que pase cerca del hardware. Este espacio es donde voy subiendo las cosas que hago, así me quedan guardadas y por si a alguien le sirven.
 
-## Que estoy haciendo ahora:
-* Por el momento estoy intentando terminar la carrera y conseguir mis primeras experiencias en la industria en Investigación y Desarrollo (I+D).
-* Profundizando en la arquitectura de hardware y estudiando autodidacta diseño y verificación formal de hardware.
+## En qué ando
 
-## Mi Stack Tecnológico
-* **Lenguajes principales:** Python, Java, C, C#.
-* **Bases de datos:** SQL.
-* **Desarrollo web:** HTML, CSS, JavaScript.
-* **Otras herramientas, SO y lenguajes:** SmallTalk, Haskell, Prolog, Git, LaTeX, Windows y Linux, Paquete de office :p.
+* Terminando la carrera y buscando mis primeras experiencias en la industria, con preferencia por I+D y sistemas.
+* Explorando distintas ramas del bajo nivel a través de proyectos, para encontrar cuál me copa más. El emulador de CHIP-8 es el primero de esa serie.
 
-## Algunos proyectos de hace un tiempo: 
+## Proyectos
 
-* **[Open Science](https://augusmardo.github.io/OpenScienceCaC/)**: Página web que armé como trabajo final del curso de desarrollo Full Stack de Codo a Codo 4.0 (Python/Web).
-* **[Rubber Rumble](https://codo-a-codo.itch.io/rubber-rumble)**: Videojuego desarrollado en Unity, quedó como trabajo final destacado del curso de especializacion en Unity de Codo a Codo 4.0 (Las particulas se caen a pedazos pero no llegamos a arreglarlo antes de que lo suban :p).
+### [Intérprete de CHIP-8](https://github.com/AugusMardo/chip-8) · C, SDL2
 
-## Si querés contactarme:
+Implementación completa de la máquina virtual CHIP-8: las 35 instrucciones, timers, renderizado de sprites con detección de colisión y un disassembler que quedó integrado como herramienta de debug. Corre Pong y ROMs clásicas, y pasa los tests `3-corax+` y `4-flags` del test suite de Timendus.
+
+El README documenta las decisiones de diseño y qué comportamiento elegí para cada *quirk* de la especificación, que es la parte más interesante del proyecto.
+
+### Proyectos anteriores
+
+De cuando arrancaba, ambos hechos en cursos de Codo a Codo 4.0:
+
+* **[Open Science](https://augusmardo.github.io/OpenScienceCaC/)** — Página web, trabajo final del curso de desarrollo Full Stack (Python/Web), 2022.
+* **[Rubber Rumble](https://codo-a-codo.itch.io/rubber-rumble)** — Videojuego en Unity, elegido como trabajo final destacado del curso de especialización, 2023.
+
+## Stack
+
+* **Lenguajes principales:** C, Java, Python
+* **Sistemas y bajo nivel:** Assembly (x86), Linux, QEMU, GDB, Make
+* **Uso académico:** Haskell, Prolog, Smalltalk
+* **Herramientas:** Git, LaTeX, SQL
+
+## Contacto
+
 * **LinkedIn:** [Augusto Mardones](https://www.linkedin.com/in/augustomardones/)
 * **Email:** [augusmardo@gmail.com](mailto:augusmardo@gmail.com)
-
-
